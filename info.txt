@@ -9,6 +9,7 @@ git diff --> to see diff, in current and prev. version
 git checkout fileName -- will rollback change to previous
 
 git remove --cached -r . -- to undo change if we did git add .
+git clone URL(of git repo. we want to clone to our desktop)
 
 
 ls -a --> to see hidden git files
