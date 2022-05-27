@@ -1,0 +1,12 @@
+git init 
+git status
+git add . / git add name
+git commit -m "message in present tense from"
+git log
+
+
+git diff
+git checkout
+
+
+ls -a => to see hidden git files
