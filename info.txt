@@ -8,6 +8,7 @@ git log --> to see commits
 git diff --> to see diff, in current and prev. version
 git checkout fileName -- will rollback change to previous
 
+git remove --cached -r . -- to undo change if we did git add .
 
 
 ls -a --> to see hidden git files
@@ -21,3 +22,9 @@ CREATING REMOTE REPOS. FROM GITHUB SITE-->
  
 
 go to insights->networks and u will find your all commits
+
+
+
+HIDDEN FILES 
+
+touch .gitignore -- (see by ls -a)
