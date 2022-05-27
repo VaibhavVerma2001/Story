@@ -2,11 +2,22 @@ git init
 git status
 git add . / git add name
 git commit -m "message in present tense from"
-git log
+git log --> to see commits
 
 
-git diff
-git checkout
+git diff --> to see diff, in current and prev. version
+git checkout fileName -- will rollback change to previous
 
 
-ls -a => to see hidden git files
+
+ls -a --> to see hidden git files
+
+
+
+CREATING REMOTE REPOS. FROM GITHUB SITE-->
+
+1- git remote add origin URL (https://..)
+2- git push -u origin master (this will push local repo. to remote repos.)
+ 
+
+go to insights->networks and u will find your all commits
