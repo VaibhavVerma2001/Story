@@ -20,7 +20,7 @@ CREATING REMOTE REPOS. FROM GITHUB SITE-->
 
 1- git remote add origin URL (https://..)
 2- git push -u origin master (this will push local repo. to remote repos.)
- 
+3- git push heroku master
 
 go to insights->networks and u will find your all commits
 
